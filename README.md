@@ -12,7 +12,7 @@ if(isset($_POST['Full_Name']) && isset($_POST['Email']) &&isset($_POST['Subject'
 }
 
 ?>
-
+```html
 
 <html lang="en">
 
@@ -618,3 +618,4 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </body>
 
 </html>
+```html
