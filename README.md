@@ -13,7 +13,7 @@ if(isset($_POST['Full_Name']) && isset($_POST['Email']) &&isset($_POST['Subject'
 
 ?>
 
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
