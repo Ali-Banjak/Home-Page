@@ -23,6 +23,7 @@ if(isset($_POST['Full_Name']) && isset($_POST['Email']) &&isset($_POST['Subject'
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="keywords" content="Apt Resume Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony Ericsson, Motorola web design" /> 
+	```
 	<script type="application/x-javascript">
 		addEventListener("load", function () {
 			setTimeout(hideURLbar, 0);
@@ -34,6 +35,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</script>
 	<!-- //Meta Tags -->
 	<!-- Style Sheets -->
+	```html
 	<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 	<link href="css/font-awesome.css" rel="stylesheet">
 	<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
@@ -555,6 +557,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 	<a href="#home" class="scroll" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
 	<!-- //smooth scrolling -->
+	
 	<script type='text/javascript' src='js/jquery-2.2.3.min.js'></script>
 	<!-- start-smoth-scrolling -->
 	<!--gallery -->
@@ -568,7 +571,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</script>
 	<!-- //gallery -->
 	<script type="text/javascript" src="js/move-top.js"></script>
-	
+	```
 	<script> /*
 	function myMap() {
     var mapOptions = {
@@ -580,8 +583,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	}
 	*/
 	</script>
+	```html
 	<script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
 	<script type="text/javascript" src="js/easing.js"></script>
+	```
 	<script type="text/javascript">
 		jQuery(document).ready(function ($) {
 			$(".scroll").click(function (event) {
@@ -611,6 +616,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 		});
 	</script>
+	```html
 	<!-- //here ends scrolling icon -->
 	<!--js for bootstrap working-->
 	<script src="js/bootstrap.js"></script>
