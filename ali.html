@@ -25,8 +25,10 @@ if(isset($_POST['Full_Name']) && isset($_POST['Email']) &&isset($_POST['Subject'
  	</style>
 	<style type="text/css">
 		.banner1 {
-			position:relative;
-			z-index:1;
+			position:fixed;
+			z-index:0;
+			top:0;
+			left:0;
 			background-image: url('./images/banner.jpg');
 			-webkit-background-size: cover;
 			-moz-background-size: cover;
